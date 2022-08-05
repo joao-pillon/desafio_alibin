@@ -1,5 +1,5 @@
 <h1 align="center">Alibin Desafio Frontend</h1>
-
+<hr/>
 <h2 align="center">Descrição do Projeto</h2>
 
 <p align="center">Este modelo de interface foi criado a partir da proposta do desafio de Frontend da Alibin. Suas dimensões, cores e funcionaliades foram espelhadas na proposta.</p>
@@ -8,15 +8,16 @@
 
 <p align="center">
 <a href="#descrição do projeto">Descrição do Projeto</a> •
-<a href="#tabela de conteúdos">Tabela de conteúdos</a> •
-<a href="#tecnologias">Tecnologias</a> •
-<a href="#pré-requisitos">Pré-requisitos</a>
 <a href="#features">Features</a> •
+<a href="#pré-requisitos">Pré-requisitos</a>•
+<a href="#tecnologias">Tecnologias</a> •
 <a href="#autor">Autor</a>
 </p>
-<p align="center">====================================================================================</p>
 
-# Features
+<hr/>
+
+
+### Features
 
 - [x] Criação do repositório.
 - [x] Start do projeto com React/Typescript.
@@ -28,7 +29,6 @@
 - [x] Funcionalidade da checkbox.
 - [x] Layout extremamente parecido com a proposta.
 - [x] Read-me bacana
-- [ ] Testes
 
 ### Pré-requisitos
 
@@ -50,19 +50,17 @@ $ yarn start
 #O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### 🛠 Tecnologias
-
+### Tecnologias 
+<p align="center"> 🛠</p>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [StyledComponents](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Jest](https://jestjs.io/pt-BR/)
 
 <h4 align="center"> 
-### 
-	Status do Projeto ✅ Concluído 
+	Status do Projeto: Concluído 
 </h4>
 
 
@@ -72,7 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <a href="joao-pillon.vercel.app">
- <img style="border-radius: 50%;" src="https://i.ibb.co/JyRN3ZQ/profile-pic-square.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%" src="https://i.ibb.co/JyRN3ZQ/profile-pic-square.png" width="100px;" alt=""/>
  <br />
  <sub><b>João Pedro Pillon</b></sub></a> <a href="joao-pillon.vercel.app" title="Rocketseat">🚀</a>
 
